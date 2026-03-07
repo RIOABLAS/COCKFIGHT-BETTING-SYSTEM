@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cockfight-Betting-System/1.0.0": {
+        "runtime": {
+          "Cockfight-Betting-System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cockfight-Betting-System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
